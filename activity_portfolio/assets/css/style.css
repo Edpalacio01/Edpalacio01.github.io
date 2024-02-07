@@ -34,9 +34,8 @@ nav {
   background-image: url("../images/web\ dev.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-
   height: 40%;
-
+  padding: 40px;
   display: flex;
   justify-content: center;
   align-items: center;
